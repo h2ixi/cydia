@@ -1,0 +1,14 @@
+Package: com.local.essentials-sources
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPad Legacy Apps
+Filename: debs/com.local.essentials-sources_1.0_iphoneos-arm.deb
+Size: 926
+MD5sum: 60bb64f2a9de0cb136b7423ea8725725
+SHA1: 8d5a047ea6bad5aa243b837d4ea27891fe723825
+SHA256: dee00718906c4e8c1211ae53d852ab6bd41381d93b486b13109c62958599339d
+Section: Jailbreak Setup
+Description: Adds the official repos for AppSync Unified + appinst (LukeZGD), Filza (TIGI Software), AppDrop (AdrienRL1) and Troubadour + Venetium (Computershik73). One install sets up a fresh jailbreak: tap Refresh in Sources afterwards, then pick what you want one by one - AppSync Unified, appinst, Filza, AppDrop, Troubadour, Venetium.
+Author: iPad Legacy Apps
+Name: First Jailbreak Setup
+

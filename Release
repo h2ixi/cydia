@@ -1,0 +1,18 @@
+Origin: iPad Legacy Apps
+Label: iPad Legacy Apps
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: First-time jailbreak setup for 32-bit iOS 10
+MD5Sum:
+ 0b2c4732b8ca5373c286d163c1e54f6e 762 Packages
+ 6add2c1806cf024a8e36dcbde8005086 564 Packages.bz2
+ a9173d9ea34a5e5ed4d071bf4cbdb7f5 511 Packages.gz
+ f6593e031cb18d346e4bce997dbe4795 592 Packages.xz
+SHA256:
+ bcc781cc0d481871b398d869c3f878860a246e1b9b7cd345b4bbbc3344116657 762 Packages
+ 700ce68f7d32711ccb9e716ed4ae28a8ce8ea3066c6d162ab5412e55ed857cc6 564 Packages.bz2
+ 9d26909b6583c4fac9e82f6f439782db5f4dd5adcc240f1780e3d664611de6cd 511 Packages.gz
+ 62462981c35e1e15474b326c8127143573ad773817d37b6ef67a11d79dc7660a 592 Packages.xz
