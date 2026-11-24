@@ -5,14 +5,14 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: First-time jailbreak setup for 32-bit iOS 10
+Description: Native apps for 32-bit iOS 10 (iPad 4 era) and a jailbreak setup
 MD5Sum:
- 0b2c4732b8ca5373c286d163c1e54f6e 762 Packages
- 6add2c1806cf024a8e36dcbde8005086 564 Packages.bz2
- a9173d9ea34a5e5ed4d071bf4cbdb7f5 511 Packages.gz
- f6593e031cb18d346e4bce997dbe4795 592 Packages.xz
+ c7c699cb16f6216589c92ce14c8fa214 5956 Packages
+ ac54ae18d8b6775694268d433ff191cd 2495 Packages.bz2
+ 644c25b11712a3dab6b1f0cc7c897150 2462 Packages.gz
+ 00eec6b50714f7a1952ba375422bf0ed 2488 Packages.xz
 SHA256:
- bcc781cc0d481871b398d869c3f878860a246e1b9b7cd345b4bbbc3344116657 762 Packages
- 700ce68f7d32711ccb9e716ed4ae28a8ce8ea3066c6d162ab5412e55ed857cc6 564 Packages.bz2
- 9d26909b6583c4fac9e82f6f439782db5f4dd5adcc240f1780e3d664611de6cd 511 Packages.gz
- 62462981c35e1e15474b326c8127143573ad773817d37b6ef67a11d79dc7660a 592 Packages.xz
+ 6f6c1754c71c1abc0f606433406cca4e025c592b1ab9057b4a597c2904203e01 5956 Packages
+ fa6caf89845ca0628b2773b9d86fa8df5ca3b0a79058d7e52e38458b3d537edb 2495 Packages.bz2
+ 37714f9d06f67a484497133165f6ec3a43c212d6e463a345196ed72fca87381e 2462 Packages.gz
+ f7331b4216e730dbab8c9e45c9136993705571440b9ee29e0ab33317f1b68529 2488 Packages.xz
