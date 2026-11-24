@@ -7,12 +7,12 @@ Architectures: iphoneos-arm
 Components: main
 Description: Native apps for 32-bit iOS 10 (iPad 4 era) and a jailbreak setup
 MD5Sum:
- 7a8de8631e1b522b0adf1c91c5c634fa 6110 Packages
- 3f033720a51a6fba5b050bd6def6d1cd 2564 Packages.bz2
- a5d6f6465cd5e03bf13b0e3beff76f32 2532 Packages.gz
- 1b2b779250c89db29ccb994e2d7e4325 2544 Packages.xz
+ 66b746deb2bb7fe1966e42a059a67a3b 6110 Packages
+ 14283d931fb7a75b759adfc99ebf54e3 2579 Packages.bz2
+ 853b255989d147e14254c57d97469f9f 2538 Packages.gz
+ fc66cddadd70c4c8c7c124eb97ebf1df 2552 Packages.xz
 SHA256:
- 6e3545ebd78f6f3e574bea807bcc4062877e73b75325fd840efe15fa27443fc3 6110 Packages
- a5394cb708eee3db91fa60eee45cd0c33aef909afd09c9fb11244622da7d559c 2564 Packages.bz2
- 863859bfc19b446f74d8c14b2a4240286fa0917790c3d3fd3ba0474ee801b488 2532 Packages.gz
- 6e0af40797441e84b0cb00c6d2772c29cde1ae2648fc4ca25f44769cbb161706 2544 Packages.xz
+ 5f99365ad81f1e0061568ca09b580c84c38b3f7a5e678917782b4c1f6f117a00 6110 Packages
+ e5a3ae6f6e9bce2256833447a6a47a537350e3531ae184eae10639a4b4b3315c 2579 Packages.bz2
+ d86c496b957a808823cbf21b76510dffb2c6e1baadf11b02f64a0ee502f90bbd 2538 Packages.gz
+ a406b14283348ababdc1c423efa3be36ab5179b1a7a5053de6a79524af7ae571 2552 Packages.xz

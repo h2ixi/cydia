@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.cord_1.0_iphoneos-arm.deb
 Size: 121154
-MD5sum: 501e83c32bcc1d7b43c34dc6c357cc65
-SHA1: 2b7d3797d5f3e9bfa4101cf307ea42da0f1c800f
-SHA256: 6f08e702635d24c6414e1d465ae9badab2ea17f8581edcd673a3e3b00075ba47
+MD5sum: de8feada2b13a74f301424c682a97e5b
+SHA1: 25bfad4289ef3aeb6c8cfc2e542db07b945283ee
+SHA256: aa40e0fe95cf4152d4dd58186d4879b04d7922e2cc98a3be5755863e4afe58fe
 Section: Social
 Description: Unofficial native Discord client for iPad 4: QR login, servers, DMs, images, replies, reactions. Unofficial clients can carry a small risk for your Discord account.
 Author: iPad Legacy Apps
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.deltarune_0.1_iphoneos-arm.deb
 Size: 109316
-MD5sum: e0bf915997c322c6023874bf328638c1
-SHA1: 05519948edd628ad21daf945cc18d2e15091ce45
-SHA256: 1ed39d5cf6b2fc9a50409b658b2cc09fd5898966745812b21521aa6767336aa8
+MD5sum: 4a3a625020dbe619b1162984ecf8a848
+SHA1: eaac19a99491b1554fbe165e15b718e669289934
+SHA256: 04c44174752d52bfb87ed9064e410cb6548df21351abb9310e0c0ec429c90c83
 Section: Games
 Description: DELTARUNE launcher for 32-bit iOS 10 (GameMaker Android runner via a custom loader). Game files are NOT included: you need your own copy of the game.
 Author: iPad Legacy Apps
@@ -32,10 +32,10 @@ Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Depends: com.tigisoftware.filza, preferenceloader, com.saurik.afc2d, bash, adv-cmds
 Filename: debs/com.local.essentials-sources_2.0_iphoneos-arm.deb
-Size: 2110
-MD5sum: 033cea691d3ce54542695cc47fb67dcf
-SHA1: 1bf546b95f3482b1c51db999c98615a84c0eff1d
-SHA256: ba789b2cdb6f63057ff662ab2ca8dbaea19efa0a562ea1d6d1a5f8bb265a5159
+Size: 2108
+MD5sum: 3b3e65e2a1235b5a63adb7b2aa78acc1
+SHA1: 0a76976d66f86bca47f77ce869d55ef55bf6f7ea
+SHA256: a9829b4b8bf13b8495f976f1473efa0125f52fddad2506c807514830f5ef53ba
 Section: Jailbreak Setup
 Description: Everything a fresh jailbreak needs in one tap: AppSync Unified + appinst (install .ipa apps), Filza File Manager, PreferenceLoader and Apple File Conduit "2". Filza, PreferenceLoader and AFC2 install right away; AppSync Unified and appinst install automatically from LukeZGD's repo a minute after Cydia finishes (tap Refresh in Cydia to see them).
 Author: iPad Legacy Apps
@@ -46,10 +46,10 @@ Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.fox_1.3.2_iphoneos-arm.deb
-Size: 6466050
-MD5sum: 40fbc1530efd82192b26cb3b12f6db42
-SHA1: 93dd8d579d97481bbec43405cfa37f937f4d12c8
-SHA256: 0aa550ac4cc5e2d3aa55318e0d12b2f846ced597b0d6373ef9996f0822e95039
+Size: 6466048
+MD5sum: 567ddfd01af9cbe9bceb3e4ba61c2be9
+SHA1: 56963fde6d30daf6b4d2c0fe7069096ec6097ea7
+SHA256: c3915b6d47edcda276d9ca5e99d8ffdee6507282bf8764bf6bde11682e338c99
 Section: Browsers
 Description: Firefox-style browser for iPad 4 with uBlock Origin filtering and Privacy Badger tracker learning built in
 Author: iPad Legacy Apps
@@ -60,10 +60,10 @@ Version: 0.5.5
 Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.honeydew_0.5.5_iphoneos-arm.deb
-Size: 18784878
-MD5sum: 9cff707d61baa486e2a11a45a8780d2a
-SHA1: 99098c27f375e410d25f6471a1e5423933da5df0
-SHA256: 5143f20e8739bbdcc17350f832e450c1967e8c77cc7315d61a337220140a485e
+Size: 18784874
+MD5sum: 30d661b43b11a18567e9b5ea6b0261e7
+SHA1: 8fcabccd5acc6725c1996e66037361766f2e8ca3
+SHA256: 90b8e0e6ff31487687d901ea82f32e726fe7d924155c0705ab0f038f32a22b20
 Section: Music
 Description: Honeydew: free open-source music studio modelled on FL Studio Mobile (iPad 4 port, GL ES 2)
 Author: iPad Legacy Apps
@@ -74,24 +74,24 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.moonlight_1.0_iphoneos-arm.deb
-Size: 1160820
-MD5sum: 746d51ba888200886913f3feb688e9f0
-SHA1: 1534585a949f75a7a082bbd18fb1b4b92403acf4
-SHA256: d0a7ba9e7fa5f147f7e548e5aa184a3052bc152654008657a09905c74bb14eb2
+Size: 1160822
+MD5sum: e7c3a66ebb4f25cefd9cc1bab34d1305
+SHA1: 96c7e9229578a218b74f88086a918a22229b183c
+SHA256: 38f40842ad9d0ad1f796566e1369d12bc4771283c4d2bffbe8400b0548aae704
 Section: Game Streaming
 Description: Game streaming from your PC (Sunshine / Apollo / GeForce) - Artemis-style client for iPad 4
 Author: iPad Legacy Apps
 Name: Moonlight
 
 Package: com.local.omori
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
-Filename: debs/com.local.omori_1.0_iphoneos-arm.deb
-Size: 35082
-MD5sum: 667a90cd4e4811e8044af7df54fd1913
-SHA1: 6e6e92c54059d271e83e2e4fe5cece444a45b81b
-SHA256: 5d21e151c1878537cc15c2a698caa43bd29fee0d4c2180c626b779c195169379
+Filename: debs/com.local.omori_1.1_iphoneos-arm.deb
+Size: 35118
+MD5sum: 7fc2893901a46e32369764743672b55e
+SHA1: c83f26e18f61e2d334e1a8a168f36064fdd51e9e
+SHA256: 598c8ac19bf34e5da703e6e67291f35de769c6ddaa06be0d0851e596a96bf529
 Section: Games
 Description: OMORI player for 32-bit iOS 10. Game files are NOT included: you need your own copy of the game.
 Author: iPad Legacy Apps
@@ -102,10 +102,10 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.orca_2.1_iphoneos-arm.deb
-Size: 1267174
-MD5sum: 52c4e80c1c7ec92b566dd1230073789f
-SHA1: 1ee42919848ad0a63111c3fc9b045144cf1f1960
-SHA256: b4902de26803dadb27015f3664c4446bb096cd8dc1903eab097a018bb7b1d203
+Size: 1267188
+MD5sum: 1449de737a69c967ac16fe5ec120358a
+SHA1: b8fe5849e8df362e9c3e1792a5ba759389b422ea
+SHA256: 7918491ea9f5949a3f6e3f2c0dcd777e3c45b50936693ecd8c7c764523fedf2b
 Section: Development
 Description: Native Orca for iPad 4: your Orca agents, chats and workspaces (Rust E2EE core + UIKit)
 Author: iPad Legacy Apps
@@ -117,9 +117,9 @@ Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Filename: debs/com.local.savemanager_1.2_iphoneos-arm.deb
 Size: 59302
-MD5sum: 13911cb3585cdb5c99a33b4b7ad37e8a
-SHA1: 8c4124304c4d7e35b9e584eefae0d617342a7cc2
-SHA256: aab41bc2f7011c07afa2b3342f77f64ed2babeacf7a0d46b03c02aa413121c39
+MD5sum: 1753f9160e25c341d20700102e86625c
+SHA1: 6c8700f0c667d9ce6488723082b9038f22b5a064
+SHA256: f210c34422eed6d02fcce70584606e7ba73dcf4efa140e858abf6a0aea22f3c0
 Section: Games
 Description: Manage game saves on the iPad: DELTARUNE (saves, practice-save library, backups) and OMORI (save files, practice-save library, copy, delete, backups)
 Author: iPad Legacy Apps
@@ -131,10 +131,10 @@ Architecture: iphoneos-arm
 Maintainer: iPad Legacy Apps
 Depends: openssl
 Filename: debs/com.local.send_1.1_iphoneos-arm.deb
-Size: 85146
-MD5sum: 04b05bf7d947501f50413017d8d10788
-SHA1: 2c84fe954588298349f0c772f07981279420a5e9
-SHA256: 91073565c8c47e4558592382c4dec516907c0a7de0e7f3dc9bf46b0f9f3b4eef
+Size: 85144
+MD5sum: a4faad7ee8a29573780e2117179eadaa
+SHA1: 8ef5931a3fd9e735cb794ab946b5e7ef37d6be48
+SHA256: 2fec633b626ac352c61d81157cf55e5ce0f5727afefbdd7d4791e805576e8627
 Section: File Sharing
 Description: LocalSend-compatible file sharing for 32-bit iOS 10: send and receive files with LocalSend on phones and PCs over Wi-Fi
 Author: iPad Legacy Apps
@@ -149,9 +149,9 @@ Replaces: com.local.tailscaled
 Provides: com.local.tailscaled
 Filename: debs/com.local.tailscale_1.4_iphoneos-arm.deb
 Size: 247572
-MD5sum: b0e2c0be129e036304ce3603e109155f
-SHA1: a373a7182d964730c144257ea6c3d9cecf332297
-SHA256: 244278026010f0848f113ce58c5a99719dbdceef76c53426550c1d2c2bc75e52
+MD5sum: e4dabd2e1c5fc1959221d5606b45450b
+SHA1: fe6e31ad980fa1415f1b9657628f3360ead062b6
+SHA256: 235a2ad7e7d55f78620f633d5c3d6276303ede29e2642ac08bcd184c8e21eabf
 Section: Networking
 Description: Tailscale for 32-bit iOS 10: the app plus its system-wide VPN service (QR sign-in, devices, MagicDNS, subnet routes).
 Author: iPad Legacy Apps
